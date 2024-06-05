@@ -6,8 +6,8 @@ This repository provides a simple setup for JSON Server, a full fake REST API wi
 
 To get started, clone the repository and install the necessary dependencies.
 
-git clone https://github.com/kushalg24/json-server-setup.git
-npm install
+--git clone https://github.com/kushalg24/amplyfund-server.git
+--npm install
 
 ## Run server
 
